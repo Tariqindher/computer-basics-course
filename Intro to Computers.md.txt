@@ -1,0 +1,136 @@
+# ?? Course Title: Computer Basics for Developers
+
+---
+
+## ?? Course Intro
+
+Welcome to the **Computer Basics course** ??  
+This course is designed to help beginners understand how computers, internet, and developer tools actually work in real life.
+
+As a future **Full Stack Developer**, these basics are very important because they build your foundation for programming, software development, and IT careers.
+
+?? This course is part of my learning journey from **freeCodeCamp** and helps me prepare for real-world software development jobs.
+
+---
+
+## ?? Why This Course is Important
+
+This course is useful for developers because:
+
+- ?? Builds strong computer fundamentals  
+- ?? Helps understand how the internet works  
+- ?? Improves developer tool knowledge  
+- ????? Prepares for software house jobs  
+- ?? Supports Full Stack Development career path  
+
+---
+
+## ?? Course Modules Overview
+
+- ?? Module 1: Understanding Computer, Internet & Tools Basics ?? (Completed)  
+- ?? Module 2: Working with File Systems ? (Not Started)  
+- ?? Module 3: Browsing the Web Effectively ? (Not Started)  
+
+---
+
+## ?? Module 1: Understanding Computer, Internet & Tools Basics (Completed)
+
+---
+
+### ??? What are the Basic Parts of a Computer?
+
+- ?? Motherboard ? Main board that connects all parts  
+- ?? CPU ? Brain of the computer that processes instructions  
+- ? RAM ? Temporary memory for fast work  
+- ?? Hard Drive (HDD/SSD) ? Stores data permanently  
+- ?? PSU ? Gives power to the computer  
+- ?? GPU ? Handles graphics and visuals  
+- ?? Network Card ? Connects computer to internet  
+
+---
+
+### ??? Keyboard, Mouse & Devices Usage
+
+- ??? Hold mouse gently to avoid hand pain  
+- ?? Use keyboard shortcuts to save time  
+- ?? Maintain correct posture to avoid health issues  
+- ?? Take regular breaks to reduce stress on body  
+- ?? Use ergonomic tools for comfort  
+
+---
+
+### ?? Types of Internet Service Providers (ISP)
+
+- ?? Tier 1 ISP ? Big global internet companies  
+- ?? Tier 2 ISP ? Country-level providers  
+- ?? Tier 3 ISP ? Local internet companies  
+
+#### ?? Internet Types:
+
+- ?? Fiber ? Fastest internet using light signals  
+- ?? Cable ? Uses TV network cables  
+- ?? DSL ? Uses telephone lines  
+- ?? 5G Internet ? Uses mobile towers  
+- ??? Satellite ? Internet from space satellites  
+
+---
+
+### ?? Safe Ways to Sign Into Computer
+
+- ?? Always use strong passwords  
+- ? Avoid simple passwords like 12345  
+- ??? Use 2-factor authentication (2FA)  
+- ?? Use fingerprint or face ID if available  
+- ?? Keep your system locked when not in use  
+
+---
+
+### ?? Developer Tools Used by Professionals
+
+- ?? Computer ? Main development machine  
+- ????? Code Editors ? VS Code, IntelliJ, PyCharm  
+- ?? Git ? Tracks code changes  
+- ?? GitHub ? Stores and shares code online  
+- ?? Package Managers ? Manage libraries (npm, pip, etc.)  
+- ?? Testing Tools ? Check if code works properly  
+- ?? Browsers ? Chrome, Firefox for testing websites  
+
+---
+
+## ?? Module 2: Working with File Systems (Coming Soon)
+
+- File and folder structure  
+- Creating, moving, deleting files  
+- Understanding paths  
+- Organizing projects like developers  
+
+?? This module helps in managing real coding projects.
+
+---
+
+## ?? Module 3: Browsing the Web Effectively (Coming Soon)
+
+- ?? How to search effectively on Google  
+- ?? Understanding websites and domains  
+- ?? Using browser tools (DevTools)  
+- ? Finding correct development resources  
+- ?? Learning from documentation  
+
+---
+
+## ?? How This Helps Me as a Developer
+
+This course helps me:
+
+- Build strong basics for **Full Stack Development**  
+- Understand how computers really work  
+- Improve my problem-solving skills  
+- Get ready for software house jobs  
+- Become confident in real-world development  
+
+---
+
+## ?? Final Note
+
+This repository is part of my journey to become a **Full Stack Developer ??**  
+I will keep updating this as I complete each module.
